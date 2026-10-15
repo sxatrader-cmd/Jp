@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jp.fabletour.com/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jp.fabletour.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.fabletour.com/"/>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/rjQhHaVGjSc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Fable Tour：日本人のお客様とのイラクツアー</video:title>
+      <video:description>日本からのお客様と巡ったイラクツアーの映像。バビロン、ウル、湿地帯、サーマッラー、ハトラ、バグダッド。</video:description>
+      <video:player_loc>https://www.youtube.com/embed/rjQhHaVGjSc</video:player_loc>
+    </video:video>
+  </url>
+</urlset>
